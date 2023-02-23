@@ -1,0 +1,10 @@
+const String baseUrl="http://192.168.0.244:8081/salesorder";//server
+// const String baseUrl="http://192.168.0.233:8081/salesorder";//junaid
+// const String baseUrl="http://10.0.2.2:9091";//home local server test
+const String orderUrl="/srcOnLoadOrderDtl";
+const String loginPosts="/login";
+const String custOrdrDsplyUrl="/custCode";
+const String scrOnLoad="/srcOnLoadOrderDtl";
+const String dsplyOrdrDtl="/refNo";
+const String meltPer="/meltPer";
+const String dueDate="/days";
